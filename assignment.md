@@ -23,15 +23,16 @@ the player in alternating order.
 **Da Recipe**
 
 
+| Crafting Station                                                                                             | 
+| ------------------------------------------------------------------------------------------------------------ |
+| ![image](https://github.com/user-attachments/assets/f2ad65c1-1bd3-4b75-b407-96a7a2329a6d) Ancient Manipulator| 
 
-
-
-| Ingredients   | Amount        | 
-| ------------- |:-------------:| 
-| ![image](https://github.com/user-attachments/assets/d2444906-d106-47ca-a821-752e55d8d47e) Luminite Bar  | 5             | 
-| ![image](https://github.com/user-attachments/assets/3a497ee3-3213-4b6b-bd7f-93cb68c2d1b4) Cog           | 50            |
-| **Result**    |Amount         |
-|![image](https://github.com/user-attachments/assets/36252762-4f04-481a-bf7c-4f33f8f0fd63)| 1| 
+| Ingredients   | Amount                                                                                       | 
+| ------------- |:--------------------------------------------------------------------------------------------:| 
+| ![image](https://github.com/user-attachments/assets/d2444906-d106-47ca-a821-752e55d8d47e) Luminite Bar  | 5  | 
+| ![image](https://github.com/user-attachments/assets/3a497ee3-3213-4b6b-bd7f-93cb68c2d1b4) Cog           | 50 |
+| **Result**    |Amount                                                                                        |
+|![image](https://github.com/user-attachments/assets/36252762-4f04-481a-bf7c-4f33f8f0fd63)| 1                  | 
 
 
 
