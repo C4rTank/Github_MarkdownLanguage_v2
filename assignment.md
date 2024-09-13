@@ -1,4 +1,4 @@
-# Clockwork Bow #
+# Clockwork Bow 
 
 The **Clockwork Bow** is a craftable ![image](https://github.com/user-attachments/assets/8260a9f7-4982-4b00-911a-57cda698cc2d) **post-Moon Lord** bow. When holding left click with the bow, 
 precision bolts are slowly loaded into it, up to a maximum of six. The bolts are homing and can
@@ -18,4 +18,23 @@ the player in alternating order.
 | Use time	**30** (Very Slow)| 
 | Velocity	**15**            | 
 | Sell	**24** Gold Coin ![image](https://github.com/user-attachments/assets/99fc92bb-be6e-4803-b2be-3ba93c6e47a6)| 
+
+## Crafting
+**Da Recipe**
+
+
+
+
+
+| Ingredients   | Amount        | 
+| ------------- |:-------------:| 
+| ![image](https://github.com/user-attachments/assets/d2444906-d106-47ca-a821-752e55d8d47e) Luminite Bar  | 5             | 
+| ![image](https://github.com/user-attachments/assets/3a497ee3-3213-4b6b-bd7f-93cb68c2d1b4) Cog           | 50            |
+| **Result**    |Amount         |
+|![image](https://github.com/user-attachments/assets/36252762-4f04-481a-bf7c-4f33f8f0fd63)| 1| 
+
+
+
+
+
 
